@@ -1,14 +1,6 @@
 SpaceShip.java
 package com.zetcode;
 
-awS_secret="7N1675LFTRM8PP8FF9E8M9C3F1EQ8PMP90P40P0K"
-
-awS_secret="7N1675LMTRM8PP8FF9E8M9C3F1EQ8PMP87P40P0K"
-
-slack_token: "xoxa-269859041733-629723654435-752364182007-9ead8994051da71a0774db965b16a60b"
-	
-	
-github_client-id : 'd7444c71c75965b07cdb'
 	
 import java.awt.Image;
 import java.awt.event.KeyEvent;
